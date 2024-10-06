@@ -1,4 +1,4 @@
-# Microsoft Global ML Building Footprints Extractor
+# Microsoft Global Building Footprints Extractor
 
 This Python script processes Microsoft's Global ML Building Footprints dataset. It allows users to download, divide, and extract building footprint data for specific locations and areas.
 
